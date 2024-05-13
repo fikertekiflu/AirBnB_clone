@@ -33,4 +33,4 @@ Here are some examples of commands you can enter in the command interpreter:
 - `destroy Amenity 9876`
 - `all City`
 
-Feel free to explore other commands and functionalities available in the command interpreter!
+Feel free to explore other commands and functionalities available in the command interpreter!!
